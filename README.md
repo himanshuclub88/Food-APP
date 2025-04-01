@@ -7,7 +7,8 @@ Core Features
 - Comprehensive user database management
 - Robust admin panel for efficient management and monitoring
 
-Backend Infrastructure
+Backend Infrastructure <br/>
+
 The backend infrastructure is designed to support a seamless user experience, with features such as:
 - Secure user data storage and management
 - Efficient order processing and tracking
